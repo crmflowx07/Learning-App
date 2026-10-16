@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing back aura -->
+    <path
+        android:fillColor="#336366F1"
+        android:pathData="M54,22 L82,48 L54,84 L26,48 Z" />
+
+    <!-- 3D Polyhedron Top Facet -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M54,26 L78,46 L54,54 L30,46 Z" />
+
+    <!-- 3D Polyhedron Left Lower Facet -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M30,46 L54,54 L54,82 Z" />
+
+    <!-- 3D Polyhedron Right Lower Facet -->
+    <path
+        android:fillColor="#3730A3"
+        android:pathData="M78,46 L54,82 L54,54 Z" />
+
+    <!-- Graduation Cap Brim Overlay -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,34 L76,43 L54,52 L32,43 Z" />
+
+    <!-- Cap Crown & Tassel -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M43,47.5 L43,58 C43,62 65,62 65,58 L65,47.5 Z" />
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M69,45.5 L73,55 L70,55.5 L67,45 Z" />
+
+    <!-- Code Brackets <> and Star on crystal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,64 L39,68 L44,72 L42,73.5 L36,68 L42,62.5 Z M64,64 L69,68 L64,72 L66,73.5 L72,68 L66,62.5 Z" />
+
+    <!-- Center sparkle star -->
+    <path
+        android:fillColor="#67E8F9"
+        android:pathData="M54,63 L55.5,66.5 L59,68 L55.5,69.5 L54,73 L52.5,69.5 L49,68 L52.5,66.5 Z" />
+</vector>

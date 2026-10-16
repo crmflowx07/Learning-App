@@ -1,0 +1,6 @@
+{
+  "name": "QuestLearn",
+  "description": "Clean, comprehensive SaaS learning platform from Prep (ABCs, Numbers, Phonics) to BSCS (DSA, OOP, Algorithms, Web Tech) with adaptive placement and interactive labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuestLearn</string>
+    <string name="tagline">From ABCs to Algorithms</string>
+    <string name="stage_1_name">Magical Playground</string>
+    <string name="stage_2_name">Jungle Village</string>
+    <string name="stage_3_name">Adventure Town</string>
+    <string name="stage_4_name">Science Valley</string>
+    <string name="stage_5_name">Explorer City</string>
+    <string name="stage_6_name">Academy Campus</string>
+    <string name="stage_7_name">Career Skyline</string>
+    <string name="stage_8_name">Cyber Lab BSCS</string>
+</resources>
